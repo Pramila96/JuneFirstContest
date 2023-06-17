@@ -39,9 +39,9 @@ let arr = [
   
   function concatenateArray() {
     const newArray = [
-      { id: 4, name: "emma", age: "22", profession: "designer" },
-      { id: 5, name: "michael", age: "24", profession: "engineer" },
-      { id: 6, name: "lucas", age: "21", profession: "analyst" }
+      { id: 4, name: "pramila", age: "22", profession: "designer" },
+      { id: 5, name: "raj", age: "24", profession: "engineer" },
+      { id: 6, name: "rahul", age: "21", profession: "analyst" }
     ];
   
     const concatenatedArray = arr.concat(newArray);
